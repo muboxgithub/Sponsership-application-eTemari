@@ -1,1 +1,1 @@
-# Football-player-managemnet
+# Sponsership-application-eTemari
